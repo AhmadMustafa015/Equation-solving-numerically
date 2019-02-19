@@ -6,4 +6,5 @@ Matlab GUI that solve equation numerically, using:
 4) Fixed point method 
 5) modified Secant method
 6) unmodified Secant method
+Also, plot points that illustrate how the program find the solution.
 ![gui_screenshot](https://user-images.githubusercontent.com/43111249/53023502-0cf1ea00-3466-11e9-8fed-a708ac1e1e59.jpg)
